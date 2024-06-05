@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Card_ATM\Card_ATM\bin\Debug\net8.0\Card_ATM.exe
+C:\Users\User\source\repos\Card_ATM\Card_ATM\bin\Debug\net8.0\Card_ATM.deps.json
+C:\Users\User\source\repos\Card_ATM\Card_ATM\bin\Debug\net8.0\Card_ATM.runtimeconfig.json
+C:\Users\User\source\repos\Card_ATM\Card_ATM\bin\Debug\net8.0\Card_ATM.dll
+C:\Users\User\source\repos\Card_ATM\Card_ATM\bin\Debug\net8.0\Card_ATM.pdb
+C:\Users\User\source\repos\Card_ATM\Card_ATM\obj\Debug\net8.0\Card_ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Card_ATM\Card_ATM\obj\Debug\net8.0\Card_ATM.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Card_ATM\Card_ATM\obj\Debug\net8.0\Card_ATM.AssemblyInfo.cs
+C:\Users\User\source\repos\Card_ATM\Card_ATM\obj\Debug\net8.0\Card_ATM.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Card_ATM\Card_ATM\obj\Debug\net8.0\Card_ATM.dll
+C:\Users\User\source\repos\Card_ATM\Card_ATM\obj\Debug\net8.0\refint\Card_ATM.dll
+C:\Users\User\source\repos\Card_ATM\Card_ATM\obj\Debug\net8.0\Card_ATM.pdb
+C:\Users\User\source\repos\Card_ATM\Card_ATM\obj\Debug\net8.0\Card_ATM.genruntimeconfig.cache
+C:\Users\User\source\repos\Card_ATM\Card_ATM\obj\Debug\net8.0\ref\Card_ATM.dll
